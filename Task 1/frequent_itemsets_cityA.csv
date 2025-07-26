@@ -1,0 +1,31 @@
+,support,itemsets,check_support
+0,0.2559316986002184,frozenset({'Café'}),0.2559316986002184
+1,0.33515338032363745,frozenset({'Park'}),0.33515338032363745
+2,0.40697905291372977,frozenset({'Transit Station'}),0.40697905291372977
+3,0.2670008934776134,frozenset({'Hospital'}),0.2670008934776134
+4,0.37267944008736226,frozenset({'Real Estate'}),0.37267944008736226
+5,0.45825474039511566,frozenset({'Home Appliances'}),0.45825474039511566
+6,0.3186240444753301,frozenset({'Laundry '}),0.3186240444753301
+7,0.31351136702074855,frozenset({'Driving School'}),0.31351136702074855
+8,0.2518614116946292,frozenset({'Bank'}),0.2518614116946292
+9,0.3748138588305371,frozenset({'Hair Salon'}),0.3748138588305371
+10,0.2844237069393428,frozenset({'Community Center'}),0.2844237069393428
+11,0.42852179092623843,frozenset({'Church'}),0.42852179092623843
+12,0.3323240345478011,frozenset({'Accountant Office'}),0.3323240345478011
+13,0.45329097587610445,frozenset({'Building Material'}),0.45329097587610445
+14,0.5590687977762335,frozenset({'Heavy Industry'}),0.5590687977762335
+15,0.2547403951156557,"frozenset({'Transit Station', 'Building Material'})",0.2547403951156557
+16,0.2721632085773851,"frozenset({'Heavy Industry', 'Transit Station'})",0.2721632085773851
+17,0.26829147225255634,"frozenset({'Home Appliances', 'Real Estate'})",0.26829147225255634
+18,0.2669512558324233,"frozenset({'Hair Salon', 'Real Estate'})",0.2669512558324233
+19,0.2779211754194381,"frozenset({'Building Material', 'Real Estate'})",0.2779211754194381
+20,0.29231609252457064,"frozenset({'Heavy Industry', 'Real Estate'})",0.29231609252457064
+21,0.26422118534696715,"frozenset({'Home Appliances', 'Hair Salon'})",0.26422118534696715
+22,0.30174724511069195,"frozenset({'Home Appliances', 'Building Material'})",0.30174724511069195
+23,0.33192693338628015,"frozenset({'Home Appliances', 'Heavy Industry'})",0.33192693338628015
+24,0.25126575995234784,"frozenset({'Laundry ', 'Heavy Industry'})",0.25126575995234784
+25,0.27201429564181473,"frozenset({'Hair Salon', 'Building Material'})",0.27201429564181473
+26,0.2860617492306165,"frozenset({'Heavy Industry', 'Hair Salon'})",0.2860617492306165
+27,0.2658592276382408,"frozenset({'Heavy Industry', 'Church'})",0.2658592276382408
+28,0.258413580859724,"frozenset({'Accountant Office', 'Heavy Industry'})",0.258413580859724
+29,0.33510374267844734,"frozenset({'Heavy Industry', 'Building Material'})",0.33510374267844734

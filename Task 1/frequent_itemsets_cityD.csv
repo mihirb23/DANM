@@ -1,0 +1,88 @@
+,support,itemsets,check_support
+0,0.1381507098653076,frozenset({'Japanese restaurant'}),0.1381507098653076
+1,0.11266836548962504,frozenset({'Interior Shop'}),0.11266836548962504
+2,0.18984346559883508,frozenset({'Grocery Store'}),0.18984346559883508
+3,0.1510738987986895,frozenset({'Park'}),0.1510738987986895
+4,0.3080633418274481,frozenset({'Transit Station'}),0.3080633418274481
+5,0.14397524572260648,frozenset({'Hospital'}),0.14397524572260648
+6,0.11184929013469239,frozenset({'Chiropractic'}),0.11184929013469239
+7,0.18319985438660358,frozenset({'Elderly Care Home'}),0.18319985438660358
+8,0.10338551146705496,frozenset({'Fishing'}),0.10338551146705496
+9,0.11203130688023298,frozenset({'Kindergarten'}),0.11203130688023298
+10,0.17482708409173645,frozenset({'Real Estate'}),0.17482708409173645
+11,0.3313614852566436,frozenset({'Home Appliances'}),0.3313614852566436
+12,0.1934838005096469,frozenset({'Laundry '}),0.1934838005096469
+13,0.20695303967965054,frozenset({'Driving School'}),0.20695303967965054
+14,0.14324717874044413,frozenset({'Bank'}),0.14324717874044413
+15,0.230251183108846,frozenset({'Hair Salon'}),0.230251183108846
+16,0.22187841281397888,frozenset({'Community Center'}),0.22187841281397888
+17,0.36093920640698945,frozenset({'Church'}),0.36093920640698945
+18,0.1383327266108482,frozenset({'Retail Store'}),0.1383327266108482
+19,0.21559883509282854,frozenset({'Accountant Office'}),0.21559883509282854
+20,0.3226246814706953,frozenset({'Building Material'}),0.3226246814706953
+21,0.33427375318529307,frozenset({'Heavy Industry'}),0.33427375318529307
+22,0.1383327266108482,frozenset({'NPO'}),0.1383327266108482
+23,0.11967601019293775,frozenset({'Port'}),0.11967601019293775
+24,0.11012013105205679,"frozenset({'Grocery Store', 'Transit Station'})",0.11012013105205679
+25,0.10238441936658173,"frozenset({'Grocery Store', 'Home Appliances'})",0.10238441936658173
+26,0.10975609756097561,"frozenset({'Grocery Store', 'Hair Salon'})",0.10975609756097561
+27,0.10748088824171824,"frozenset({'Grocery Store', 'Building Material'})",0.10748088824171824
+28,0.11012013105205679,"frozenset({'Grocery Store', 'Heavy Industry'})",0.11012013105205679
+29,0.10575172915908264,"frozenset({'Transit Station', 'Hospital'})",0.10575172915908264
+30,0.10247542773935202,"frozenset({'Elderly Care Home', 'Transit Station'})",0.10247542773935202
+31,0.11048416454313797,"frozenset({'Transit Station', 'Real Estate'})",0.11048416454313797
+32,0.1471605387695668,"frozenset({'Home Appliances', 'Transit Station'})",0.1471605387695668
+33,0.12777575536949398,"frozenset({'Laundry ', 'Transit Station'})",0.12777575536949398
+34,0.1188569348380051,"frozenset({'Transit Station', 'Driving School'})",0.1188569348380051
+35,0.1420640698944303,"frozenset({'Hair Salon', 'Transit Station'})",0.1420640698944303
+36,0.11194029850746269,"frozenset({'Transit Station', 'Community Center'})",0.11194029850746269
+37,0.12977793957044048,"frozenset({'Church', 'Transit Station'})",0.12977793957044048
+38,0.1241354204586822,"frozenset({'Accountant Office', 'Transit Station'})",0.1241354204586822
+39,0.1543502002184201,"frozenset({'Transit Station', 'Building Material'})",0.1543502002184201
+40,0.15544230069166362,"frozenset({'Heavy Industry', 'Transit Station'})",0.15544230069166362
+41,0.10593374590462322,"frozenset({'Hair Salon', 'Hospital'})",0.10593374590462322
+42,0.10256643611212231,"frozenset({'Building Material', 'Hospital'})",0.10256643611212231
+43,0.10265744448489261,"frozenset({'Heavy Industry', 'Hospital'})",0.10265744448489261
+44,0.11230433199854387,"frozenset({'Elderly Care Home', 'Building Material'})",0.11230433199854387
+45,0.10711685475063706,"frozenset({'Heavy Industry', 'Elderly Care Home'})",0.10711685475063706
+46,0.11285038223516564,"frozenset({'Home Appliances', 'Real Estate'})",0.11285038223516564
+47,0.1010192937750273,"frozenset({'Laundry ', 'Real Estate'})",0.1010192937750273
+48,0.11266836548962504,"frozenset({'Hair Salon', 'Real Estate'})",0.11266836548962504
+49,0.10702584637786676,"frozenset({'Accountant Office', 'Real Estate'})",0.10702584637786676
+50,0.12504550418638516,"frozenset({'Building Material', 'Real Estate'})",0.12504550418638516
+51,0.11803785948307244,"frozenset({'Heavy Industry', 'Real Estate'})",0.11803785948307244
+52,0.11576265016381507,"frozenset({'Home Appliances', 'Laundry '})",0.11576265016381507
+53,0.11840189297415363,"frozenset({'Home Appliances', 'Driving School'})",0.11840189297415363
+54,0.136421550782672,"frozenset({'Home Appliances', 'Hair Salon'})",0.136421550782672
+55,0.11212231525300327,"frozenset({'Home Appliances', 'Community Center'})",0.11212231525300327
+56,0.1452493629413906,"frozenset({'Home Appliances', 'Church'})",0.1452493629413906
+57,0.1257735711685475,"frozenset({'Accountant Office', 'Home Appliances'})",0.1257735711685475
+58,0.17145977429923553,"frozenset({'Home Appliances', 'Building Material'})",0.17145977429923553
+59,0.16226792864943576,"frozenset({'Home Appliances', 'Heavy Industry'})",0.16226792864943576
+60,0.10147433563887878,"frozenset({'Laundry ', 'Driving School'})",0.10147433563887878
+61,0.1243174372042228,"frozenset({'Laundry ', 'Hair Salon'})",0.1243174372042228
+62,0.1065708045140153,"frozenset({'Accountant Office', 'Laundry '})",0.1065708045140153
+63,0.12504550418638516,"frozenset({'Laundry ', 'Building Material'})",0.12504550418638516
+64,0.12886785584273752,"frozenset({'Laundry ', 'Heavy Industry'})",0.12886785584273752
+65,0.10675282125955587,"frozenset({'Hair Salon', 'Driving School'})",0.10675282125955587
+66,0.12267928649435748,"frozenset({'Building Material', 'Driving School'})",0.12267928649435748
+67,0.1278667637422643,"frozenset({'Heavy Industry', 'Driving School'})",0.1278667637422643
+68,0.10138332726610848,"frozenset({'Bank', 'Heavy Industry'})",0.10138332726610848
+69,0.10456862031306881,"frozenset({'Hair Salon', 'Community Center'})",0.10456862031306881
+70,0.11776483436476155,"frozenset({'Hair Salon', 'Church'})",0.11776483436476155
+71,0.11740080087368038,"frozenset({'Accountant Office', 'Hair Salon'})",0.11740080087368038
+72,0.14388423734983619,"frozenset({'Hair Salon', 'Building Material'})",0.14388423734983619
+73,0.13987986894794321,"frozenset({'Heavy Industry', 'Hair Salon'})",0.13987986894794321
+74,0.12258827812158718,"frozenset({'Church', 'Community Center'})",0.12258827812158718
+75,0.11585365853658537,"frozenset({'Building Material', 'Community Center'})",0.11585365853658537
+76,0.11275937386239535,"frozenset({'Heavy Industry', 'Community Center'})",0.11275937386239535
+77,0.10111030214779759,"frozenset({'Accountant Office', 'Church'})",0.10111030214779759
+78,0.1436112122315253,"frozenset({'Church', 'Building Material'})",0.1436112122315253
+79,0.13669457590098288,"frozenset({'Heavy Industry', 'Church'})",0.13669457590098288
+80,0.13496541681834728,"frozenset({'Accountant Office', 'Building Material'})",0.13496541681834728
+81,0.1328722242446305,"frozenset({'Accountant Office', 'Heavy Industry'})",0.1328722242446305
+82,0.17236985802693847,"frozenset({'Heavy Industry', 'Building Material'})",0.17236985802693847
+83,0.10165635238441936,"frozenset({'Transit Station', 'Hair Salon', 'Building Material'})",0.10165635238441936
+84,0.10493265380414998,"frozenset({'Transit Station', 'Heavy Industry', 'Building Material'})",0.10493265380414998
+85,0.11130323989807062,"frozenset({'Home Appliances', 'Heavy Industry', 'Building Material'})",0.11130323989807062
+86,0.10211139424827084,"frozenset({'Heavy Industry', 'Hair Salon', 'Building Material'})",0.10211139424827084

@@ -1,0 +1,72 @@
+,support,itemsets,check_support
+0,0.1308636562911004,frozenset({'Japanese restaurant'}),0.1308636562911004
+1,0.10708022797018851,frozenset({'Interior Shop'}),0.10708022797018851
+2,0.14072775098640947,frozenset({'Grocery Store'}),0.14072775098640947
+3,0.18029373081981587,frozenset({'Park'}),0.18029373081981587
+4,0.3597106532222709,frozenset({'Transit Station'}),0.3597106532222709
+5,0.12428759316089434,frozenset({'Hospital'}),0.12428759316089434
+6,0.1418237615081105,frozenset({'Elderly Care Home'}),0.1418237615081105
+7,0.16374397194213064,frozenset({'Real Estate'}),0.16374397194213064
+8,0.2698377904427883,frozenset({'Home Appliances'}),0.2698377904427883
+9,0.105436212187637,frozenset({'Post Office'}),0.105436212187637
+10,0.16220955721174923,frozenset({'Laundry '}),0.16220955721174923
+11,0.16462078035949146,frozenset({'Driving School'}),0.16462078035949146
+12,0.1330556773345024,frozenset({'Bank'}),0.1330556773345024
+13,0.18950021920210433,frozenset({'Hair Salon'}),0.18950021920210433
+14,0.2538360368259535,frozenset({'Community Center'}),0.2538360368259535
+15,0.37505480052608503,frozenset({'Church'}),0.37505480052608503
+16,0.1183691363437089,frozenset({'Retail Store'}),0.1183691363437089
+17,0.20166593599298555,frozenset({'Accountant Office'}),0.20166593599298555
+18,0.27093380096448927,frozenset({'Building Material'}),0.27093380096448927
+19,0.3039237176676896,frozenset({'Heavy Industry'}),0.3039237176676896
+20,0.11398509425690487,frozenset({'NPO'}),0.11398509425690487
+21,0.12801402893467778,frozenset({'Port'}),0.12801402893467778
+22,0.10072336694432267,"frozenset({'Grocery Store', 'Transit Station'})",0.10072336694432267
+23,0.1186979395002192,"frozenset({'Park', 'Transit Station'})",0.1186979395002192
+24,0.1052170100832968,"frozenset({'Home Appliances', 'Park'})",0.1052170100832968
+25,0.10883384480491012,"frozenset({'Park', 'Building Material'})",0.10883384480491012
+26,0.1186979395002192,"frozenset({'Transit Station', 'Real Estate'})",0.1186979395002192
+27,0.15311266988163086,"frozenset({'Home Appliances', 'Transit Station'})",0.15311266988163086
+28,0.12121876370013152,"frozenset({'Laundry ', 'Transit Station'})",0.12121876370013152
+29,0.11453309951775537,"frozenset({'Transit Station', 'Driving School'})",0.11453309951775537
+30,0.1059842174484875,"frozenset({'Bank', 'Transit Station'})",0.1059842174484875
+31,0.13667251205611575,"frozenset({'Hair Salon', 'Transit Station'})",0.13667251205611575
+32,0.13502849627356422,"frozenset({'Transit Station', 'Community Center'})",0.13502849627356422
+33,0.14204296361245067,"frozenset({'Church', 'Transit Station'})",0.14204296361245067
+34,0.1292196405085489,"frozenset({'Accountant Office', 'Transit Station'})",0.1292196405085489
+35,0.16242875931608944,"frozenset({'Transit Station', 'Building Material'})",0.16242875931608944
+36,0.1603463393248575,"frozenset({'Heavy Industry', 'Transit Station'})",0.1603463393248575
+37,0.1177115300306883,"frozenset({'Home Appliances', 'Real Estate'})",0.1177115300306883
+38,0.10488820692678649,"frozenset({'Hair Salon', 'Real Estate'})",0.10488820692678649
+39,0.10116177115300307,"frozenset({'Accountant Office', 'Real Estate'})",0.10116177115300307
+40,0.12132836475230162,"frozenset({'Building Material', 'Real Estate'})",0.12132836475230162
+41,0.11135466900482245,"frozenset({'Heavy Industry', 'Real Estate'})",0.11135466900482245
+42,0.1051074090311267,"frozenset({'Home Appliances', 'Laundry '})",0.1051074090311267
+43,0.12132836475230162,"frozenset({'Home Appliances', 'Hair Salon'})",0.12132836475230162
+44,0.10751863217886892,"frozenset({'Home Appliances', 'Community Center'})",0.10751863217886892
+45,0.1179307321350285,"frozenset({'Home Appliances', 'Church'})",0.1179307321350285
+46,0.1186979395002192,"frozenset({'Accountant Office', 'Home Appliances'})",0.1186979395002192
+47,0.15278386672512057,"frozenset({'Home Appliances', 'Building Material'})",0.15278386672512057
+48,0.1459886014905743,"frozenset({'Home Appliances', 'Heavy Industry'})",0.1459886014905743
+49,0.10729943007452872,"frozenset({'Laundry ', 'Hair Salon'})",0.10729943007452872
+50,0.11047786058746165,"frozenset({'Laundry ', 'Building Material'})",0.11047786058746165
+51,0.10861464270056992,"frozenset({'Laundry ', 'Heavy Industry'})",0.10861464270056992
+52,0.10236738272687418,"frozenset({'Building Material', 'Driving School'})",0.10236738272687418
+53,0.10872424375274002,"frozenset({'Heavy Industry', 'Driving School'})",0.10872424375274002
+54,0.1045594037702762,"frozenset({'Hair Salon', 'Church'})",0.1045594037702762
+55,0.10477860587461639,"frozenset({'Accountant Office', 'Hair Salon'})",0.10477860587461639
+56,0.12352038579570364,"frozenset({'Hair Salon', 'Building Material'})",0.12352038579570364
+57,0.12198597106532223,"frozenset({'Heavy Industry', 'Hair Salon'})",0.12198597106532223
+58,0.1178211310828584,"frozenset({'Church', 'Community Center'})",0.1178211310828584
+59,0.11223147742218326,"frozenset({'Building Material', 'Community Center'})",0.11223147742218326
+60,0.10686102586584831,"frozenset({'Heavy Industry', 'Community Center'})",0.10686102586584831
+61,0.1178211310828584,"frozenset({'Church', 'Building Material'})",0.1178211310828584
+62,0.12154756685664182,"frozenset({'Heavy Industry', 'Church'})",0.12154756685664182
+63,0.12352038579570364,"frozenset({'Accountant Office', 'Building Material'})",0.12352038579570364
+64,0.12472599736957475,"frozenset({'Accountant Office', 'Heavy Industry'})",0.12472599736957475
+65,0.15124945199473916,"frozenset({'Heavy Industry', 'Building Material'})",0.15124945199473916
+66,0.11025865848312144,"frozenset({'Transit Station', 'Home Appliances', 'Building Material'})",0.11025865848312144
+67,0.10335379219640509,"frozenset({'Home Appliances', 'Heavy Industry', 'Transit Station'})",0.10335379219640509
+68,0.10039456378781236,"frozenset({'Transit Station', 'Hair Salon', 'Building Material'})",0.10039456378781236
+69,0.10817623849188952,"frozenset({'Transit Station', 'Heavy Industry', 'Building Material'})",0.10817623849188952
+70,0.10762823323103901,"frozenset({'Home Appliances', 'Heavy Industry', 'Building Material'})",0.10762823323103901
